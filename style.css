@@ -202,6 +202,7 @@ header .row .social-links .link {
     z-index: 2;
     transform: translateX(-50%);
   }
+
   .bottom {
     height: calc(100vh - 350px);
   }
