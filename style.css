@@ -224,7 +224,7 @@ header .row .social-links .link img {
 }
 
 .bottom .slider .row .item .text {
-  margin-top: -35px;
+  margin-top: -20px;
   width: 200px;
   animation-name: fadeUp;
   animation-duration: 0.4s;
@@ -241,6 +241,7 @@ header .row .social-links .link img {
 }
 .bottom .slider .row .item:nth-child(3) .text {
   animation-delay: 6.4s;
+  margin-top: -35px;
 }
 
 .bottom .title {
@@ -305,7 +306,6 @@ header .row .social-links .link img {
     overflow: hidden;
   }
   .bottom .slider .row .item .text {
-    margin-top: -35px;
     width: 150px;
   }
 }
